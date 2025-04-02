@@ -1,0 +1,12 @@
+diff --git a/browser/components/about/components.conf b/browser/components/about/components.conf
+index 8ed309e974..767b8daacb 100644
+--- a/browser/components/about/components.conf
++++ b/browser/components/about/components.conf
+@@ -22,6 +22,7 @@ pages = [
+     'pocket-style-guide',
+     'policies',
+     'preferences',
++    'hub',
+     'privatebrowsing',
+     'protections',
+     'profiling',
